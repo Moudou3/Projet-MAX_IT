@@ -27,8 +27,8 @@ Lire le pdf.
 
 📢 Équipe projet
 👨‍💻 Membres :
-  - Amadou DJIBRILLA MAIGA
   - Mamoudou SIDIBE
+  - Amadou DJIBRILLA MAIGA
   - Dicourou COULIBALY
   - Cheick Beto TOURE
 👨‍🏫 Encadrant : M. HAIDARA Badi
